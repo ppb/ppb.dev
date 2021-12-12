@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -eu
 
 prefix() {
     tmpfile=$(mktemp)

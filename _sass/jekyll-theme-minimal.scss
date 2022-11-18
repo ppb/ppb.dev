@@ -186,7 +186,10 @@ header .social {
   display: flex;
   justify-content: space-evenly;
   img {
-    height: 40px;
+      width: 40px;
+      display: inline-block;
+      vertical-align: middle;
+      height: 100%;
   }
 }
 
